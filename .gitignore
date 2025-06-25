@@ -1,0 +1,34 @@
+# Ignore virtual environments
+venv/
+env/
+pyvenv/
+.virtualenv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore editor & temp files
+*.swp
+*.log
+*.tmp
+.DS_Store
+
+# Ignore unnecessary folders
+logs/
+share/
+virtualdocuments/
+include/
+Lib/
+data/        # optional, only if it's huge and not needed
+
+# Ignore system and IDE settings
+.vscode/
+.idea/
+
+# Others
+*.env
+*.egg-info/
+
