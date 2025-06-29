@@ -1,6 +1,6 @@
 #  DEEP CNN IMAGE CLASSIFIER
 
-A Deep Learning project built using **Convolutional Neural Networks (CNNs)** to classify images into emotional categories such as *happy*, *sad*, *angry*, etc. Designed and trained using **TensorFlow** and **Keras**, this project demonstrates practical image classification with real-world data.
+A Deep Learning project built using **Convolutional Neural Networks (CNNs)** to classify images into emotional categories such as *happy*, *sad*, *angry*. Designed and trained using **TensorFlow** and **Keras**, this project demonstrates practical image classification with real-world data.
 
 ---
 
